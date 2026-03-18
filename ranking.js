@@ -1,7 +1,7 @@
 const readline = require('readline-sync')
 
 let = nomeHeroi = readline.question("Digite o nome do seu herói: ")
-let = pontosXP = readline.question("Digite a quantidade de XXP o seu herói: ")
+let = pontosXP = readline.question("Digite a quantidade de XP o seu herói: ")
 
 if (pontosXP < 100){
     categoria = "Iniciante"
